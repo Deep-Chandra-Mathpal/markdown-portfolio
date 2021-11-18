@@ -1,0 +1,4 @@
+- likes
+  - travelling
+  - reading
+  - sleeping
